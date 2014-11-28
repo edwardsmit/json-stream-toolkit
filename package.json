@@ -1,0 +1,42 @@
+{
+  "name": "json-stream-toolkit",
+  "version": "0.1.1",
+  "description": "Toolkit for modifying streams of Json objects in NodeJS",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "unix-sort": "^0.1.6"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-docker": "0.0.8",
+    "grunt-mocha-test": "^0.12.4",
+    "grunt-open": "^0.2.3",
+    "matchdep": "^0.3.0",
+    "mocha": "^2.0.1"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edwardsmit/json-stream-toolkit.git"
+  },
+  "keywords": [
+    "json",
+    "stream",
+    "toolkit",
+    "join",
+    "cap",
+    "transform"
+  ],
+  "author": "Edward Smit <edwardsmit@xs4all.nl> (https://github.com/edwardsmit)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwardsmit/json-stream-toolkit/issues"
+  },
+  "homepage": "https://github.com/edwardsmit/json-stream-toolkit"
+}
