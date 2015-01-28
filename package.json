@@ -4,6 +4,7 @@
   "description": "Toolkit for modifying streams of Json objects in NodeJS",
   "main": "index.js",
   "dependencies": {
+    "djson": "^0.1.1",
     "ewait": "^0.2.1",
     "lodash": "^2.4.1"
   },
