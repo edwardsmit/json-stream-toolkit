@@ -1,6 +1,6 @@
 {
   "name": "json-stream-toolkit",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Toolkit for modifying streams of Json objects in NodeJS",
   "main": "index.js",
   "dependencies": {
